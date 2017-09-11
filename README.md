@@ -1,6 +1,8 @@
 # Slide_Show_Plugin
 
 SlideShow_Plugin:- in SlideShow_Plugin i will make slider of images and put start and stop button so user can slide the slider automatically and also manually.
+
+
 #Installation
 
 1> Wamp(Windows, Apache, MySQL and PHP) Server
